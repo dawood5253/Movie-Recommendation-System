@@ -1,10 +1,6 @@
 # Movie-Recommendation-System
 This project involves building a movie recommendation system using collaborative filtering techniques. The notebook demonstrates the steps involved in preprocessing the data, training the recommendation model, and evaluating its performance.
 
-
-
-# Movie Recommendation System
-
 This repository contains a Colab notebook for building a movie recommendation system using collaborative filtering techniques. The notebook covers data preprocessing, model training, and evaluation of the recommendation system.
 
 ## Table of Contents
